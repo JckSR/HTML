@@ -1,0 +1,36 @@
+h1 {color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+/* class */
+
+.parrafo
+{
+    color: rgb(255, 255, 255);
+
+}
+
+.contenedor{
+    display: flex;
+    align-items: flex-start;
+    background-color: rgb(0, 0, 0);
+}
+
+.lista-frutas{
+    margin-right: 50px;
+    color: aliceblue;
+}
+
+.imagen-fruta{
+    max-width: 80px;
+    height: auto;
+}
+.body{
+    background-color: rgb(0, 0, 0);
+}
+
+.as{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    color: rgb(55, 161, 231);
+}
