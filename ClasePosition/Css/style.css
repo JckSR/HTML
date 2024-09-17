@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.imagen-cr7 {
+        width: 50%;
+        height: auto;
+        border: 10px solid rgb(0, 0, 0);
+        background-color: red;
+        box-sizing: border-box;
+    }
+    
